@@ -22,7 +22,7 @@ public class FullNameApplication {
         System.out.print("Suffix: ");
         String suffix = myScanner.nextLine();
 
-        //
+        //назначаем повне імʼя з імені бо
         String fullName = firstName.trim();
 
         if (!middleName.trim().isEmpty()) {
